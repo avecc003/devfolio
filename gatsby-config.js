@@ -33,25 +33,25 @@ module.exports = {
       {
         name: 'PantryKeeper',
         description:
-          'Food storage web application built with FERN stack. User is able to keep track of their pantry items as well as how long they have left before they expire with playful UI interactivity.',
+          'Food storage web application built with FERN stack. User is able to keep track of their pantry items and their expiration dates with playful UI interactivity.',
         link: 'https://github.com/aliv314/pantrykeeper'
       },
       {
         name: 'SPRK_E Backend',
         description:
-          'Journaling API built with Node, Express, Knex, and MySQL. Implemented OAuth, and encryption to keep user data secure.',
+          'Journaling API built with Node, Express, Knex, and MySQL. Implemented OAuth, and encryption for journal entries to keep user data secure.',
         link: 'https://github.com/aliv314/SPRK-E_backend'
       },
       {
         name: 'Pastagram',
         description:
-          'Instagram clone built with Swift. User is able to upload login, images, like, and comment on other user posts.',
+          'Instagram clone built with Swift. User is able to login, upload images, like, and comment on posts.',
         link: 'https://github.com/aliv314/Pastagram'
       },
       {
         name: 'GeekText',
         description:
-          'Bookstore REST API built with Java, Spring Boot and MySQL',
+          'Bookstore REST API built with Java, Spring Boot and MySQL.',
         link: 'https://github.com/AmberImani/CEN-4010-Group-15'
       },
     ],
