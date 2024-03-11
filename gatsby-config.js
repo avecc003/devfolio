@@ -15,7 +15,7 @@ module.exports = {
     // Optional: Email
     email: `alejandrovecchio01@gmail.com`,
     // Content of the About Me section
-    about: ``,
+    about: `I'm a passionate full-stack developer skilled in both front and back-end web development. I thrive in a collaborative environment and thoroughly enjoy the process of optimizing software solutions.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
