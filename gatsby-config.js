@@ -15,37 +15,37 @@ module.exports = {
     // Optional: Email
     email: `alejandrovecchio01@gmail.com`,
     // Content of the About Me section
-    about: `Software Developer from Peru whose knack for learning earned him a Baherlor's degree in Computer Science from FIU and a Software Engineering diploma from BrainStation.`,
+    about: ``,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Cinemate Frontend',
         description:
-          'Streaming service web application built with React and TailwindCSS. User is able to bookmark and search for movies.',
+          'Streaming service web application built with React and TailwindCSS. The user is able to bookmark and search for movies.',
         link: 'https://github.com/grammerjam/tg-main'
       },
       {
         name: 'Cinemate Backend',
         description:
-          'Streaming service REST API built with Node.js, Express.js, and MongoDB. Implements a content filtering algorithm to provide the user with a personalized recommended sections.',
+          'Streaming service REST API built with Node.js, Express.js, and MongoDB with Prisma. The site implements content-based filtering to provide the user with a personalized recommended section.',
         link: 'https://github.com/grammerjam/team-miamiangels-backend'
       },
       {
         name: 'PantryKeeper',
         description:
-          'Food storage web application built with FERN stack. User is able to keep track of their pantry items and their expiration dates with playful UI interactivity.',
+          `Food management FERN stack web application. The user is able to keep track and manipulate different food containers, their individual contents, and how long they've been in storage with playful UI interactivity.`,
         link: 'https://github.com/aliv314/pantrykeeper'
       },
       {
         name: 'SPRK_E Backend',
         description:
-          'Journaling API built with Node, Express, Knex, and MySQL. Implemented OAuth, and encryption for journal entries to keep user data secure.',
+          `Journaling API built with Node.js, Express.js, Knex, and MySQL. Implemented OAuth, and encryption for journal entries to keep user's data secure.`,
         link: 'https://github.com/aliv314/SPRK-E_backend'
       },
       {
         name: 'Pastagram',
         description:
-          'Instagram clone built with Swift. User is able to login, upload images, like, and comment on posts.',
+          'Instagram clone built with Swift. The user is able to login, upload images, like, and comment on posts.',
         link: 'https://github.com/aliv314/Pastagram'
       },
       {
@@ -83,10 +83,6 @@ module.exports = {
         name: 'Other',
         description:
           'Database Design, RESTful API Design, Web APIs, Agile Methodology, Git, Github, CI/CD, Prisma, Knex, NoSQL, Document Object Model (DOM), Unix Shell, SuperTest',
-      },
-      {
-        name: 'Older',
-        description: 'Python, Java, SpringBoot, Mobile Development, Android Studio, Kotlin, Swift, iOS Development, xCode, C, SASS, Bootstrap, PostgreSQL, Flask',
       },
     ],
   },
