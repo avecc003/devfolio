@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Software Engineer`,
     // Optional: Github account URL
-    github: `https://github.com/aliv314`,
+    github: `https://github.com/avecc003`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alejandro-vecchio/`,
     // Optional: Email
@@ -34,19 +34,19 @@ module.exports = {
         name: 'PantryKeeper',
         description:
           `Food management FERN stack web application. The user is able to keep track and manipulate different food containers, their individual contents, and how long they've been in storage with playful UI interactivity.`,
-        link: 'https://github.com/aliv314/pantrykeeper'
+        link: 'https://github.com/avecc003/pantrykeeper'
       },
       {
         name: 'SPRK_E Backend',
         description:
           `Journaling API built with Node.js, Express.js, Knex, and MySQL. Implemented OAuth, and encryption for journal entries to keep user's data secure.`,
-        link: 'https://github.com/aliv314/SPRK-E_backend'
+        link: 'https://github.com/avecc003/SPRK-E_backend'
       },
       {
         name: 'Pastagram',
         description:
           'Instagram clone built with Swift. The user is able to login, upload images, like, and comment on posts.',
-        link: 'https://github.com/aliv314/Pastagram'
+        link: 'https://github.com/avecc003/Pastagram'
       },
       {
         name: 'GeekText',
